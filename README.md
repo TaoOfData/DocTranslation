@@ -1,0 +1,1 @@
+# DocTranslation-AzureCognitiveServices
